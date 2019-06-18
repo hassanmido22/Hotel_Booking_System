@@ -1,4 +1,4 @@
-# Laravel-Booking
+# Hotel-Booking-System
 Laravel based application used to book rooms and bookings and manage bookings and clients.
 For now this is a basic booking management system for hotels.
 
