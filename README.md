@@ -9,8 +9,6 @@ For now this is a basic booking management system for hotels.
 
 ## Installations / Instructions
 
-``` git  clone https://github.com/javedbaloch4/Laravel-Booking.git ```
-
 ``` Open .env file to configure your database name, host, and password ``` 
 
 ``` composer install ```
